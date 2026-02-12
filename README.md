@@ -46,6 +46,7 @@ https://genvo.vercel.app/
 ![NodeJS](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
 ![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php)
 
 ---
 
