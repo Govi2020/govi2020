@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-# Govind A
-Self-taught Full Stack Developer focused on building scalable web systems, secure applications, and rapid prototypes across unfamiliar domains. { coding since: 2020 }
+## Govind A
 
-I started coding in middle school and have since built 28+ projects spanning backend systems, security experiments, machine learning models, and game development.
+Self Tought Full Stack Developer (MERN) | Security-focused | 18Y Old | 28+ Projects | Coding since 2020
 
 ## 🌐 Socials:
 LinkedIn: 
