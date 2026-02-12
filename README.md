@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-# Govi<br><br>Self-taught Full Stack Developer focused on building scalable web systems, secure applications, and rapid prototypes across unfamiliar domains.<br><br>I started coding in middle school and have since built 28+ projects spanning backend systems, security experiments, machine learning models, and game development.<br><br>---<br><br>## 🚀 Core Focus<br><br>- Full Stack Development (MERN)<br>- Web Security & Vulnerability Research<br>- System Design Fundamentals<br>- Rapid Prototyping Across New Stacks<br><br>---<br><br>## 🏗 Featured Projects<br><br>### 1. [Project Name]<br>Short 2–3 line explanation:<br>- Problem it solves<br>- Tech stack<br>- Architecture decisions<br>- Key challenge overcome<br><br>### 2. [Project Name]<br><br>### 3. [Project Name]<br><br>### 4. [Project Name]<br><br>(Only show your strongest work. No weak projects.)<br><br>---<br><br>## 🛠 Tech Stack<br><br>**Frontend**<br>React, Next.js, Tailwind<br><br>**Backend**<br>Node.js, Express, Django, PHP<br><br>**Data**<br>
+# Govi
 
+Self-taught Full Stack Developer focused on building scalable web systems, secure applications, and rapid prototypes across unfamiliar domains.
+
+I started coding in middle school and have since built 28+ projects spanning backend systems, security experiments, machine learning models, and game development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/govi2020) 
