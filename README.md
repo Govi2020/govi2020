@@ -24,6 +24,7 @@ https://genvo.vercel.app/
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)
 ![Lua](https://img.shields.io/badge/Lua-000000?style=flat-square&logo=lua)
 ![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus)
 ---
